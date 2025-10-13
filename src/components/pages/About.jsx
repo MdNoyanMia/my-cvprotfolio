@@ -7,7 +7,7 @@ export default function About() {
       className="max-w-7xl mx-auto px-6 py-32 bg-gradient-to-r from-blue-50 via-purple-50 to-pink-50 dark:from-gray-900 dark:via-gray-800 dark:to-gray-900 rounded-2xl shadow-lg"
     >
       <h2 className="text-4xl md:text-5xl font-bold text-center mb-12 animate-fadeIn">
-        About <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500"> About Me</span>
+       <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500">   About Me</span>
       </h2>
 
       <p className="text-lg md:text-xl text-gray-700 dark:text-gray-300 leading-relaxed mb-6 text-center animate-fadeIn delay-100">

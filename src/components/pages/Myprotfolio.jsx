@@ -12,8 +12,8 @@ const projects = [
     title: "Portfolio Website",
     description: "React + Tailwind ",
     // Ei path-ti shothik thaklo (jodi public/assets/project2.png file-ti thake)
-    image: "/assets/project2.png",
-    link: "#portfolio",
+    image: "/poppppng.png",
+    link: "https://my-cvprotfolio-zd19.vercel.app/",
   },
   {
     title: "Blog Platform",
