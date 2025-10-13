@@ -5,7 +5,7 @@ const projects = [
     title: "E-commerce Website",
     description: "React + Tailwind ",
     // FIX: '/src' remove kora holo. Shothik path: /assets/image.png
-    image: "/src/assets/image.png",
+    image: "/image.png",
     link: "https://project-e-commarce-ig4z.vercel.app/",
   },
   {
@@ -19,7 +19,7 @@ const projects = [
     title: "Blog Platform",
     description: "Next.js + Tailwind ",
     // FIX: '/src' remove kora holo. Shothik path: /assets/image2.png
-    image: "/src/assets/image2.png",
+    image: "/image2.png",
     link: "https://exampractice-qb2o.vercel.app/",
   },
 ];

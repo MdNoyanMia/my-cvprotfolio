@@ -31,7 +31,7 @@ export default function Banner() {
         <div className="flex-shrink-0 animate-fadeIn">
           <img
             // PATH FIXED: Vercel/Next.js-e /public/ folder-er content-ke shudhu / diye access kora hoy
-            src="/src/assets/noyan.png" 
+            src="/noyan.png" 
             alt="Noyan Mia"
             className="w-64 h-64 md:w-72 md:h-72 rounded-full object-cover border-4 border-white shadow-2xl"
           />
